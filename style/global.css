@@ -78,7 +78,7 @@ a {
   color: inherit;
 }
 
-a:hover { 
+a:hover {
   background: linear-gradient(
     90deg,
     var(--brand-color-secundary) 0%,
@@ -92,6 +92,11 @@ a:hover {
 
 ul[role="list"] {
   list-style: none;
+}
+
+img {
+  max-width: 100%;
+  display: inline-block;
 }
 
 @media (width >= 80em) {
