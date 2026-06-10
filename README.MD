@@ -6,7 +6,7 @@
 
 > _Quem canta seus males espanta._
 
-Landing page **moderna, responsiva e elegante** para o aplicativo de Karaokêºº **Zingen**. Desenvolvida com HTML5 semâº¼ntico e CSS3 puro, com foco em performance, acessibilidade e design pixel-perfect para qualquer dispositivo.
+Landing page **moderna, responsiva e elegante** para o aplicativo de Karaokêºº **Zingen**. Desenvolvida com HTML5 semântico e CSS3 puro, com foco em performance, acessibilidade e design pixel-perfect para qualquer dispositivo.
 
 <br/>
 
@@ -14,8 +14,6 @@ Landing page **moderna, responsiva e elegante** para o aplicativo de Karaokêº�
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://fonts.google.com/)
 [![Responsivo](https://img.shields.io/badge/Responsivo-📱%20PC%20%E2%80%90%20Mobile-6DBE45?style=for-the-badge)](#)
-
-
 
 <br/>
 
@@ -29,8 +27,6 @@ Landing page **moderna, responsiva e elegante** para o aplicativo de Karaokêº�
 
 <div align="center">
 
-> Substitua a imagem abaixo pelo GIF ou screenshot do projeto.
-
 ![Demo do Projeto](./assets/smartphones.png)
 
 |                     Desktop                      |                     Mobile                      |
@@ -43,9 +39,11 @@ Landing page **moderna, responsiva e elegante** para o aplicativo de Karaokêº�
 
 ## 🚀 Sobre o Projeto
 
-O **Zingen** é um aplicativo de Karaokêºº que usa Inteligencia Artificial para remover a voz original das músicas e gerar a maior biblioteca de Karaokêµı do mercado. Esta landing page foi criada para apresentar o app de forma moderna e persuasiva, com seccoes de funcionalidades, planos e call-to-action de download.
+O **Zingen** é um aplicativo de Karaokê que usa Inteligencia Artificial para remover a voz original das músicas e gerar a maior biblioteca de Karaokê do mercado. Esta landing page foi criada para apresentar o app de forma moderna e persuasiva, com seccoes de funcionalidades, planos e call-to-action de download.
 
-O projeto foi desenvolvido como prática de HTML5 semâº¼ntico, CSS3 responsivo e boas práticas de acessibilidade web (atributos aria-label, hierarquia de headings, roles semâº¼nticos).
+Além disso, todo o design foi desenvolvido previamente no Figma, servindo como guia visual para a construção fiel da interface.
+
+O projeto foi desenvolvido como prática de HTML5 semântico, CSS3 responsivo e boas práticas de acessibilidade web (atributos aria-label, hierarquia de headings, roles semânticos).
 
 ---
 
@@ -55,7 +53,7 @@ O projeto foi desenvolvido como prática de HTML5 semâº¼ntico, CSS3 responsiv
 
 |     Tecnologia     | Uso                                         |
 | :----------------: | :------------------------------------------ |
-|     HTML5 logo     | Estrutura semâº¼ntica da página             |
+|     HTML5 logo     | Estrutura semântica da página             |
 |     CSS3 logo      | Estilizacao, layout e responsividade        |
 |    Google Fonts    | Tipografia (Poppins, Inter, Archivo, Alice) |
 |    SVG / Assets    | Icones e imagens vetoriais otimizados       |
@@ -159,10 +157,6 @@ Contribuicoes sao bem-vindas! Se você tem uma sugestao para melhorar este proje
 > Siga o padrao Conventional Commits para as mensagens de commit.
 
 ---
-
-## 📝 Licenca
-
-Este projeto está sob a licenca MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ---
 
